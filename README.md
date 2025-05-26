@@ -1,3 +1,4 @@
+# Build human-centered, joy-driven tech solutions that solve real community challenges. 🌍💡
 # Lightweight-Storefront-Builder
 lightweight storefront builder called "TradeTracker" that addresses the key challenges small traders face. Here are the standout features:
 Core Functionality:
