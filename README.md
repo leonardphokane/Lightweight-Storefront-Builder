@@ -36,5 +36,5 @@ The app uses modern web technologies with voice recognition API and camera acces
 - 💻 Cursor AI – AI-assisted IDE for code reviews and speed
 
 
-[View Live Demo] [https://leonardphokane.github.io/Lightweight-Storefront-Builder/]
-[View Canva Presentation] [https://www.canva.com/design/DAGojeo3fB8/djfBA-WT1Yj5a8TfFRMUbQ/edit]
+- [View Live Demo] [https://leonardphokane.github.io/Lightweight-Storefront-Builder/]
+- [View Canva Presentation] [https://www.canva.com/design/DAGojeo3fB8/djfBA-WT1Yj5a8TfFRMUbQ/edit]
