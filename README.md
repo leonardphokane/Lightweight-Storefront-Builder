@@ -1,7 +1,7 @@
 # Hackathon Theme
 ## Problem Statements & Challenges
 ## 🛒 Retail & Ecommerce: Lightweight Storefront Builder
-**Problem**: Many small traders don’t track their income or expenses and have no idea if they’re making a profit.
+**Problem**: Many small traders don’t track their income or expenses and have no idea if they’re making a profit. 
 **Challenge**: Build a mobile/web app that uses voice or photo input to help business owners track income and expenses in real-time.
 
 ## Building Human-Centered, Joy-Driven Solutions Using AI and Low-Code Tools.
