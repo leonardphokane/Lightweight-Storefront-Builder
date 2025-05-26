@@ -9,7 +9,7 @@ Challenge: Build a mobile/web app that uses voice or photo input to help busines
  
 ## Lightweight-Storefront-Builder
 lightweight storefront builder called "TradeTracker" that addresses the key challenges small traders face. Here are the standout features:
-Core Functionality:
+## Core Functionality:
 -	Real-time profit tracking - Shows today's profit prominently at the top
 -	Voice input - Speak transactions naturally (e.g., "Sold 5 shirts for 50 dollars")
 -	Photo receipt scanning - Take pictures of receipts for automatic processing
@@ -31,7 +31,7 @@ Business Intelligence:
 -	Daily/total summaries
 The app uses modern web technologies with voice recognition API and camera access for a truly mobile-native experience. Small traders can quickly log sales by speaking ("Sold 3 items for 75 dollars") or photographing receipts, making it effortless to track whether they're actually making money.
 
-🛠️ ## Vibe Coding Tools
+## 🛠️ Vibe Coding Tools
 - 🤖 Claude.ai – Limitless prompt engineering possibilities
 - 💻 Cursor AI – AI-assisted IDE for code reviews and speed
 
