@@ -1,4 +1,7 @@
-# Build human-centered, joy-driven tech solutions that solve real community challenges. 🌍💡
+# Hackathon Theme
+# Building Human-Centered, Joy-Driven Solutions Using AI and Low-Code Tools.”
+ Let’s explore how smart tools and creative coding can reshape the way we solve everyday problems!
+ 🌍💡
 # Lightweight-Storefront-Builder
 lightweight storefront builder called "TradeTracker" that addresses the key challenges small traders face. Here are the standout features:
 Core Functionality:
@@ -23,3 +26,5 @@ Business Intelligence:
 -	Daily/total summaries
 The app uses modern web technologies with voice recognition API and camera access for a truly mobile-native experience. Small traders can quickly log sales by speaking ("Sold 3 items for 75 dollars") or photographing receipts, making it effortless to track whether they're actually making money.
 
+
+https://www.canva.com/design/DAGojeo3fB8/djfBA-WT1Yj5a8TfFRMUbQ/edit
